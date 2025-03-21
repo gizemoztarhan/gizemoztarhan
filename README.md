@@ -1,6 +1,6 @@
    ## Hi there! I'm Gizem👋
 
--🎓 I graduated in *Computer Programming* from *Akdeniz University.* 
+-🎓 I graduated in *Computer Programming* from *Akdeniz University.* <br>
 -💻 **Frontend:** I have completed HTML and CSS ✅ and now I'm focusing on JavaScript and React.🔥<br> 
 -🎯 **My Goals:** <br>
      -Mastering JavaScript,React and modern frameworks.<br>
