@@ -1,14 +1,13 @@
    ## Hi there! I'm Gizem👋
-
-🎓 I graduated in *Computer Programming* from *Akdeniz University.* <br>
-💻 **Frontend:** I have completed HTML and CSS ✅ and now I'm focusing on JavaScript and React.🔥<br> 
-🎯 **My Goals:** <br>
-     -Mastering JavaScript,React and modern frameworks.<br>
-     -Establishing a strong career in tech industry<br>
-     -Improving my frontend skills now, and planning to focus backend development soon.    
-📚 **Always Learning:**<br>
-    -I love exploring new things and continuously improving myself while doing projects.<br>
-  📫 How to reach me:<br>
+🎓I graduated in *Computer Programming* from *Akdeniz University.* <br>
+💻**Frontend:** I have completed HTML and CSS ✅ and now I'm focusing on JavaScript and React.🔥<br> 
+🎯**My Goals:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Mastering JavaScript,React and modern frameworks.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Establishing a strong career in the tech industry.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Improving my frontend skills now, and planning to focus backend development *asap*.    
+📚**Always Learning:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-I love exploring new things and continuously improving myself while doing projects.<br>
+📫 How to reach me:<br>
  gizem.oztarhan@hotmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
